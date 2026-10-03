@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<library path="pure_pursuit_controller">
+  <class
+    name="pure_pursuit_controller::PurePursuitController"
+    type="pure_pursuit_controller::PurePursuitController"
+    base_class_type="nav2_core::Controller">
+    <description>
+      Simple proportional controller for following a Nav2 path.
+    </description>
+  </class>
+</library>
